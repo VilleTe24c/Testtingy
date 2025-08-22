@@ -1,9 +1,19 @@
 body {
-    background-color: rgba(169, 169, 169, 0.279);
+    background-color: rgba(125, 125, 125, 0);
 
 }
 
 h1 {
+    color: darkorchid;
+    text-align: center;
+}
+
+h2 {
+    color: darkorchid;
+    text-align: center;
+}
+
+p {
     color: darkorchid;
     text-align: center;
 }
